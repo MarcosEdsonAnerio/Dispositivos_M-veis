@@ -1,0 +1,14 @@
+expo init
+npm install
+npm install react-native-screens
+npm install react-native-safe-area-context
+npm install react-native-reanimated
+npm install react-native-gesture-handler
+npm install @react-native-community/masked-view
+npm install @react-navigation/stack
+npm install @react-navigation/native
+
+
+expo init
+npm install
+npm install react-native-screens react-native-safe-area-context react-native-reanimated react-native-gesture-handler @react-native-community/masked-view @react-navigation/stack @react-navigation/native

@@ -1,0 +1,127 @@
+[
+  {
+    "question": "Qual é a capital do Brasil?",
+    "correct_answer": "Brasília",
+    "incorrect_answers": ["Rio de Janeiro", "São Paulo", "Salvador"]
+  },
+  {
+    "question": "Quem pintou a Mona Lisa?",
+    "correct_answer": "Leonardo da Vinci",
+    "incorrect_answers": ["Pablo Picasso", "Vincent Van Gogh", "Michelangelo"]
+  },
+  {
+    "question": "Qual o maior planeta do sistema solar?",
+    "correct_answer": "Júpiter",
+    "incorrect_answers": ["Terra", "Marte", "Saturno"]
+  },
+  {
+    "question": "Em que ano o homem pisou na Lua pela primeira vez?",
+    "correct_answer": "1969",
+    "incorrect_answers": ["1959", "1979", "1989"]
+  },
+  {
+    "question": "Qual é o metal mais leve?",
+    "correct_answer": "Lítio",
+    "incorrect_answers": ["Alumínio", "Ferro", "Cobre"]
+  },
+  {
+    "question": "Qual é o menor país do mundo?",
+    "correct_answer": "Vaticano",
+    "incorrect_answers": ["Mônaco", "San Marino", "Liechtenstein"]
+  },
+  {
+    "question": "Quem escreveu 'Dom Quixote'?",
+    "correct_answer": "Miguel de Cervantes",
+    "incorrect_answers": ["William Shakespeare", "Gabriel García Márquez", "Fernando Pessoa"]
+  },
+  {
+    "question": "Qual é o rio mais longo do mundo?",
+    "correct_answer": "Nilo",
+    "incorrect_answers": ["Amazonas", "Yangtzé", "Mississipi"]
+  },
+  {
+    "question": "Qual é o símbolo químico do ouro?",
+    "correct_answer": "Au",
+    "incorrect_answers": ["Ag", "O", "Gd"]
+  },
+  {
+    "question": "Qual jogador de futebol é conhecido como 'Rei do Futebol'?",
+    "correct_answer": "Pelé",
+    "incorrect_answers": ["Maradona", "Cristiano Ronaldo", "Lionel Messi"]
+  },
+  {
+    "question": "Qual é o maior oceano do mundo?",
+    "correct_answer": "Oceano Pacífico",
+    "incorrect_answers": ["Oceano Atlântico", "Oceano Índico", "Oceano Ártico"]
+  },
+  {
+    "question": "Em que país está localizada a Torre Eiffel?",
+    "correct_answer": "França",
+    "incorrect_answers": ["Itália", "Espanha", "Alemanha"]
+  },
+  {
+    "question": "Qual é a fórmula da água?",
+    "correct_answer": "H2O",
+    "incorrect_answers": ["CO2", "O2", "NaCl"]
+  },
+  {
+    "question": "Quem foi o primeiro presidente do Brasil?",
+    "correct_answer": "Marechal Deodoro da Fonseca",
+    "incorrect_answers": ["Getúlio Vargas", "Juscelino Kubitschek", "Dom Pedro II"]
+  },
+  {
+    "question": "Qual é o animal mais rápido do mundo?",
+    "correct_answer": "Falcão-peregrino",
+    "incorrect_answers": ["Guepardo", "Leão", "Antílope"]
+  },
+  {
+    "question": "Qual é o país mais populoso do mundo?",
+    "correct_answer": "China",
+    "incorrect_answers": ["Índia", "Estados Unidos", "Brasil"]
+  },
+  {
+    "question": "Quem descobriu o Brasil?",
+    "correct_answer": "Pedro Álvares Cabral",
+    "incorrect_answers": ["Cristóvão Colombo", "Vasco da Gama", "Fernão de Magalhães"]
+  },
+  {
+    "question": "Qual é o maior deserto do mundo?",
+    "correct_answer": "Deserto do Saara",
+    "incorrect_answers": ["Deserto do Atacama", "Deserto da Arábia", "Deserto de Gobi"]
+  },
+  {
+    "question": "Qual é a capital da Austrália?",
+    "correct_answer": "Camberra",
+    "incorrect_answers": ["Sydney", "Melbourne", "Brisbane"]
+  },
+  {
+    "question": "Qual é a montanha mais alta do mundo?",
+    "correct_answer": "Monte Everest",
+    "incorrect_answers": ["K2", "Kangchenjunga", "Makalu"]
+  },
+  {
+    "question": "Quem foi o autor de 'A Origem das Espécies'?",
+    "correct_answer": "Charles Darwin",
+    "incorrect_answers": ["Isaac Newton", "Albert Einstein", "Galileu Galilei"]
+  },
+  {
+    "question": "Qual é o maior mamífero do mundo?",
+    "correct_answer": "Baleia-azul",
+    "incorrect_answers": ["Elefante-africano", "Orca", "Hipopótamo"]
+  },
+  {
+    "question": "Qual país sediou a Copa do Mundo de 2014?",
+    "correct_answer": "Brasil",
+    "incorrect_answers": ["África do Sul", "Alemanha", "Rússia"]
+  },
+  {
+    "question": "Em que ano a Segunda Guerra Mundial terminou?",
+    "correct_answer": "1945",
+    "incorrect_answers": ["1939", "1950", "1940"]
+  },
+  {
+    "question": "Qual é a capital do Japão?",
+    "correct_answer": "Tóquio",
+    "incorrect_answers": ["Osaka", "Quioto", "Hiroshima"]
+  }
+]
